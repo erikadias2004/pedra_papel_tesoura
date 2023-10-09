@@ -1,9 +1,9 @@
 # Pedra, papel e tesoura
 
 <div align = center>
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="mgt/pedrapapeltesoura.png" alt="Exemplo imagem">
 
->Este é um projeto destino para eu praticar meus conhecimentos.
+>Este é um projeto destino para eu praticar meus conhecimentos utilizando um jogo antigo e popular.
 </div>
 <br>
 
